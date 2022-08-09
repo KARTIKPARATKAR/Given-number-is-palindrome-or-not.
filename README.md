@@ -1,4 +1,4 @@
-# Given-number-is-palindrome-or-not.
+# Given-number-is-palindrome-or-not. #palindromenumber #palindrome #number #c++
 This is the C++ program to find given number is palindrome number or not.
 #include<iostream>
 using namespace std;
